@@ -27,7 +27,7 @@ body {
             margin-left: 120px;
             margin-bottom: 80px;
         }
-        .person {
+        .person img {
             object-fit: cover;
             display: inline-block;
             width: 100px;
